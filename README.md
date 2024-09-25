@@ -1,10 +1,10 @@
 <p align="left">
-    <img src="https://github.com/user-attachments/assets/fd26526b-cf33-4b60-8d3d-14f12b3d8e80" alt="Swift Wormhold SendableDict" width="300px" />
+    <img src="https://github.com/user-attachments/assets/dfa0c5b5-7094-4b9d-b651-0147e1ad9cfd" alt="Swift Wormhold SendableDict" width="300px" />
 </p>
 
 # SendableDict 🛸
 
-A Swift dictionary type that conforms to `Sendable` protocol.
+A Swift dictionary type that conforms to `Sendable` protocol for Swift 6.
 
 ## About
 
